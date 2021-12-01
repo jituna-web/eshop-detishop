@@ -1,1 +1,1 @@
-# eshop-detishop
+První verze eshopu detishop
