@@ -1,1 +1,1 @@
-První verze eshopu detishop
+První verze eshopu detishop - kompletní kód
